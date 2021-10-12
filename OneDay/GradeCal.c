@@ -1,5 +1,5 @@
 #include <stdio.h>  
-//v.1
+
 void main(){
 	int score;
 		printf("Enter your score : ");
